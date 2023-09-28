@@ -33,11 +33,11 @@ namespace task34
             {
                 if (arr[i] % 2 == 0)
                 {
-                    even_number++;
+                    even_number +=1;
                 }
                 else
                 {
-                    odd_number++;
+                    odd_number += 1;
                 }
             }
 
